@@ -46,3 +46,14 @@ The dataset used for this project is the Online Retail II dataset, which contain
 To replicate or extend this project:
 
 1. Clone the repository:
+2. Install dependencies:
+3. Run the Jupyter notebooks (`data_cleaning.ipynb` and `model_training.ipynb`) to execute data preprocessing, model training, and evaluation steps.
+4. Modify models, hyperparameters, or features as needed for your specific use case.
+
+## Conclusion
+
+Predicting customer lifetime value (CLV) is essential for businesses to optimize marketing strategies, customer retention efforts, and overall profitability. This project demonstrates different approaches to CLV prediction using both traditional machine learning and deep learning techniques, providing insights into model performance and feature importance.
+
+For any questions or feedback, please contact [Your Name] at [Your Email].
+
+
