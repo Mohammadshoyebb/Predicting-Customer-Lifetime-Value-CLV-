@@ -54,6 +54,6 @@ To replicate or extend this project:
 
 Predicting customer lifetime value (CLV) is essential for businesses to optimize marketing strategies, customer retention efforts, and overall profitability. This project demonstrates different approaches to CLV prediction using both traditional machine learning and deep learning techniques, providing insights into model performance and feature importance.
 
-For any questions or feedback, please contact [Your Name] at [Your Email].
+
 
 
